@@ -79,7 +79,7 @@ const Hero = () => {
             <div className="space-y-5 hidden md:block">
               <p>Tasty. Delicious. Fancy</p>
               <p className="subtitle">
-                Enjoy a taste <br /> of your new journey.
+                Enjoy a taste <br /> of your new journey
               </p>
             </div>
             <div className="view-cocktails">
